@@ -20,3 +20,6 @@ for(let tech of tecnologias) {
 }
 
 // console.log(arrayMap)
+
+
+//mariooo
